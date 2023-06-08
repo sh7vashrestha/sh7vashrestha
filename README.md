@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Shiva+Shrestha....;Nice+to+see+you+here!&center=true&size=30">
   </a>
 </h1>
-💫 About Me:<br>  
+
 👯 I’m looking to collaborate on deep learning projects<br>🌱 I’m currently learning Machine Learing
 
 
