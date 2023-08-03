@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-👯 I’m looking to collaborate on deep learning projects<br>🌱 I’m currently learning Machine Learing
+👯 I’m looking to collaborate on ML and Fornt-End projects<br>🌱 I’m currently learning Machine Learing
 
 
 ## 🌐 Socials:
